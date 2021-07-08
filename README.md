@@ -1,1 +1,1 @@
-# localhost
+# Domain pointing to  localhost
